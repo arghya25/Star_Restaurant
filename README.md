@@ -1,2 +1,2 @@
 # Star_Restaurant
-I developed this informative website of Star restaurant using HTML,CSS & JS. Feel free to find any defects
+This is project of a restaurant named Star restaurant. It is a informative website for the restaurant. Starting from it's menu to it's services.
