@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65dc5f43-909a-49da-8e69-cc672512b87c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2DCO8onwVMS3pDL1uvNLOzX5stx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65dc5f43-909a-49da-8e69-cc672512b87c" name="Default Changelist" comment="" />
+      <created>1660199443344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660199443344</updated>
+      <workItem from="1660199444655" duration="3082000" />
+      <workItem from="1660208695092" duration="2865000" />
+      <workItem from="1660277792295" duration="1313000" />
+      <workItem from="1660573828309" duration="7977000" />
+      <workItem from="1660711422360" duration="604000" />
+      <workItem from="1660814814714" duration="657000" />
+      <workItem from="1660829520736" duration="1934000" />
+      <workItem from="1660886026551" duration="2304000" />
+      <workItem from="1660896941533" duration="1785000" />
+      <workItem from="1660898808561" duration="1558000" />
+      <workItem from="1660987189264" duration="4102000" />
+      <workItem from="1660992739187" duration="11401000" />
+      <workItem from="1661015215376" duration="600000" />
+      <workItem from="1661067560124" duration="9129000" />
+      <workItem from="1661085611090" duration="1726000" />
+      <workItem from="1661098592459" duration="1371000" />
+      <workItem from="1661144011483" duration="3688000" />
+      <workItem from="1661152628665" duration="5696000" />
+      <workItem from="1661177368484" duration="1071000" />
+      <workItem from="1661194056178" duration="4404000" />
+      <workItem from="1661236844714" duration="1136000" />
+      <workItem from="1661311049528" duration="6894000" />
+      <workItem from="1661521446158" duration="1045000" />
+      <workItem from="1661532361133" duration="4159000" />
+      <workItem from="1661580079411" duration="1402000" />
+      <workItem from="1661604535247" duration="3571000" />
+      <workItem from="1661790218245" duration="1803000" />
+      <workItem from="1661841786879" duration="2605000" />
+      <workItem from="1661851112617" duration="814000" />
+      <workItem from="1661879487617" duration="1302000" />
+      <workItem from="1661938003477" duration="1384000" />
+      <workItem from="1662009947376" duration="763000" />
+      <workItem from="1662395143526" duration="5466000" />
+      <workItem from="1662438787001" duration="4647000" />
+      <workItem from="1662453347073" duration="10846000" />
+      <workItem from="1662483999552" duration="1838000" />
+      <workItem from="1662519095785" duration="13949000" />
+      <workItem from="1662559373166" duration="6670000" />
+      <workItem from="1662616858063" duration="9862000" />
+      <workItem from="1662650602067" duration="9000" />
+      <workItem from="1662650625121" duration="677000" />
+      <workItem from="1662651308511" duration="4454000" />
+      <workItem from="1662695392102" duration="4105000" />
+      <workItem from="1662703172212" duration="1778000" />
+      <workItem from="1662705052206" duration="1749000" />
+      <workItem from="1662706829398" duration="1889000" />
+      <workItem from="1662708744201" duration="3000" />
+      <workItem from="1663298995243" duration="603000" />
+      <workItem from="1666314729627" duration="20000" />
+      <workItem from="1666772560173" duration="107000" />
+      <workItem from="1666851849717" duration="561000" />
+      <workItem from="1666864092509" duration="29000" />
+      <workItem from="1666864159334" duration="123000" />
+      <workItem from="1666865144182" duration="288000" />
+      <workItem from="1666865445522" duration="547000" />
+      <workItem from="1666866021086" duration="76000" />
+      <workItem from="1666867382155" duration="84000" />
+      <workItem from="1666867479146" duration="132000" />
+      <workItem from="1666867629701" duration="3260000" />
+      <workItem from="1666931648202" duration="4582000" />
+      <workItem from="1666975702518" duration="53000" />
+      <workItem from="1667055883414" duration="9064000" />
+      <workItem from="1667118659368" duration="1515000" />
+      <workItem from="1667128189548" duration="599000" />
+      <workItem from="1667194061852" duration="4007000" />
+      <workItem from="1667228760679" duration="4061000" />
+      <workItem from="1667276447254" duration="5016000" />
+      <workItem from="1667288347137" duration="599000" />
+      <workItem from="1667289607189" duration="1828000" />
+      <workItem from="1667296667135" duration="5377000" />
+      <workItem from="1667352498100" duration="1030000" />
+      <workItem from="1667407902333" duration="6803000" />
+      <workItem from="1667580943888" duration="4144000" />
+      <workItem from="1667619044699" duration="6608000" />
+      <workItem from="1667646291249" duration="746000" />
+      <workItem from="1667730382898" duration="2375000" />
+      <workItem from="1667904102779" duration="787000" />
+      <workItem from="1667904904399" duration="600000" />
+      <workItem from="1667905517239" duration="2050000" />
+      <workItem from="1667924867042" duration="2027000" />
+      <workItem from="1667961223595" duration="2237000" />
+      <workItem from="1668007065664" duration="3104000" />
+      <workItem from="1668185255306" duration="1083000" />
+      <workItem from="1668233665972" duration="4008000" />
+      <workItem from="1668315441111" duration="499000" />
+      <workItem from="1669008906578" duration="601000" />
+      <workItem from="1669012075474" duration="4252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>

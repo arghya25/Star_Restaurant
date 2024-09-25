@@ -1,0 +1,284 @@
+/*navbar*/
+
+
+.navbar{
+    font-family: Aboreto, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    box-sizing: border-box;
+    background-color: transparent;
+}
+.navbar-brand:hover{
+    color: #000000;
+}
+.navbar-nav li{
+    margin-left: 10px;
+    list-style-type: none;
+}
+
+button.navbar-toggler{
+    color: #af830f;
+}
+img.logo{
+    height: 45px;
+}
+a.nav-link{
+    color: #000000 !important;
+    justify-items: left;
+}
+a.navbar-brand{
+    color: #000000 !important;
+    padding-right: 60px;
+}
+
+a.nav-link.active{
+    color: #c6930f !important;
+}
+a.nav-link:hover{
+    color: #c6930f !important;
+}
+a.nav-link{
+    color: #c6930f;
+    justify-items: left;
+}
+a.navbar-brand{
+    color: #000000;
+    padding-right: 60px;
+}
+
+ul.navbar-nav{
+    justify-items: right;
+}
+.navbar-collapse{
+    justify-content: right;
+}
+a.nav-link.active{
+    color: #3b2c05;
+}
+a.nav-link:hover{
+    color: #3b2c05;
+}
+
+.f-img{
+    width: 100%;
+    height: 80px;
+    object-fit: cover;
+    object-position: center;
+}
+
+
+
+
+
+*************       menu  *************
+
+
+
+
+
+
+.card{
+    width: 100%;
+    margin-top: 30px;
+}
+.card .card-title{
+    width: 100%;
+    padding: 20px 12px;
+}
+.non-veg h3{
+    padding-left: 97px;
+    padding-bottom: 12px;
+    padding-top: 28px;
+}
+.card__image{
+    height: 200px;
+    width: 253px;
+    object-fit: cover;
+}
+.card-title s {
+    color: indianred;
+}
+h1.main-head{
+    font-family: Aboreto, sans-serif;
+    font-weight: 500;
+    font-size: 2.8rem;
+    color: #c6930f;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+
+h2.subtitle{
+    font-family: 'Merriweather', serif;
+    font-size: 2.4rem;
+    color: #3b2c05;
+    padding-left: 45px;
+    padding-bottom: 20px;
+}
+div.all-head{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+
+*****************    menu end  *************
+
+
+/*footer*/
+
+
+body {
+    background: #3b2c05;
+}
+
+div.col2{
+    height: 100px;
+}
+
+footer {
+    background: #3b2c05;
+    width: 100%;
+    margin-top: 50px;
+    box-shadow: #00000028 0 0 20px 5px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 60px;
+
+}
+
+img.f-img{
+    height: 70px;
+    width: 90px;
+    object-fit: cover;
+}
+
+.main {
+    width: 100%;
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+.heading {
+    margin-bottom: 15px;
+}
+.col1 {
+    flex: 1;
+    min-width: 200px;
+}
+.col2 {
+    flex: 2;
+    min-width: 300px;
+}
+.col3 {
+    flex: 1;
+    min-width: 200px;
+}
+
+.col1 a {
+    display: inline-block;
+    padding: 7px 0;
+    font-size: 14px;
+    color: #c6930f;
+}
+.col1 a:hover {
+    color: #e0dcc5;
+}
+
+.col2 .languages {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    font-size: 14px;
+}
+.col2 a {
+    display: inline-block;
+    padding: 3px 5px;
+    border-radius: 3px;
+}
+.col2 a:hover {
+    background: #e0dcc5;
+}
+
+.social {
+    display: flex;
+    gap: 20px;
+}
+.col3 ion-icon {
+    font-size: 30px;
+}
+.social a:hover ion-icon {
+    color: #e0dcc5;
+}
+
+.terms {
+    display: flex;
+    gap: 20px;
+    font-size: 12px;
+
+}
+.terms a {
+    color: #e0dcc5;
+}
+
+h3.heading{
+    color: #e0dcc5;
+}
+
+.address{
+    color: #e0dcc5;
+}
+
+.map{
+    color: #e0dcc5;
+}
+.contact{
+    color: #e0dcc5;
+}
+.about{
+    color: #e0dcc5;
+}
+
+.col1, .address, .map, .contact, .about{
+    color: #e0dcc5;
+}
+.li-home{
+    color: #e0dcc5;
+}
+.terms{
+    text-align: center;
+    padding-left: 600px;
+    color: #e0dcc5;
+    padding-top: 20px;
+}
+
+.demo-intro{
+    color: #e0dcc5;
+}
+
+.row{
+    display: inline-block;
+}
+.column{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.address{
+    list-style: none;
+}
+
+.li-home{
+    list-style: none;
+}
+.about{
+    list-style: none;
+}
+.map{
+    list-style: none;
+}
+.contact{
+    list-style: none;
+}
+

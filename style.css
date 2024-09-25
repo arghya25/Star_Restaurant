@@ -1,0 +1,430 @@
+/*navbar*/
+
+
+.navbar{
+    font-family: Aboreto, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    box-sizing: border-box;
+    background-color: transparent;
+}
+.navbar-brand:hover{
+    color: #000000;
+}
+.navbar-nav li{
+    margin-left: 10px;
+    list-style-type: none;
+}
+
+button.navbar-toggler{
+    color: #c6930f;
+}
+
+a.nav-link{
+    color: #000000 !important;
+    justify-items: left;
+}
+a.navbar-brand{
+    color: #000000 !important;
+    padding-right: 60px;
+}
+
+a.nav-link.active{
+    color: #c6930f !important;
+}
+a.nav-link:hover{
+    color: #c6930f !important;
+}
+
+ul.navbar-nav{
+    justify-items: right;
+}
+.navbar-collapse{
+    justify-content: right;
+}
+
+
+/*slider*/
+
+
+.carousel-control-next{
+    align-items: center;
+    margin: auto 0;
+    width: 20px;
+    right: 40px;
+    border-radius: 30px;
+    padding: 2px;
+
+}
+.carousel-control-prev{
+    align-items: center;
+    margin: auto 0;
+    width: 20px;
+    right: 40px;
+    border-radius: 30px;
+    padding: 2px;
+}
+
+.carousel-item{
+    margin: 12px auto
+}
+
+/*first Div*/
+
+
+h1.main-head{
+    font-family: Aboreto, sans-serif;
+    font-weight: 500;
+    font-size: 2.8rem;
+    color: #c6930f;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+
+h2.subtitle{
+    font-family: 'Merriweather', serif;
+    font-size: 2.4rem;
+    color: #3b2c05;
+    padding-left: 45px;
+    padding-bottom: 20px;
+}
+
+.firstDiv{
+    display: flex;
+    padding: 0 70px 0 70px;
+}
+
+.firstDivImg img{
+    width: 100%;
+    border-radius: 8px;
+}
+
+.firstDivText{
+    text-align: -moz-center;
+    padding-right: 60px;
+}
+.read-more{
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: capitalize;
+    color: #ffffff !important;
+    padding: 12px 24px !important;
+    border: none;
+    border-radius: 4px;
+    background-color: #c6930f;
+    outline: none;
+    box-shadow: 0 0 40px #00000030;
+    transition: all 0.7s;
+}
+.read-more:hover{
+    background-color: #3b2c05;
+}
+
+
+/*Features*/
+
+
+.card-cta {
+    margin-bottom: 24px;
+    border: 1px solid #44444440;
+    background: #e8f3fd;
+}
+
+article.card-cta{
+    border-radius: 12px;
+}
+
+.card-body {
+    padding: 1.4rem;
+    background-color: #f5f0e3;
+}
+
+.card-body a{
+    color: #c6930f;
+}
+
+.grid-cta {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 1.4rem;
+}
+
+.grid-cta-item {
+    container-type: inline-size;
+}
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    color: #cbc19d;
+}
+
+img {
+    max-width: 100%;
+    margin: 0;
+}
+
+p.card-description{
+    margin: 0 0 24px 0;
+}
+
+.main-page{
+    font-size: 1.5rem;
+    background: #ffffff;
+}
+
+.container {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+.chibi-div{
+    width: 100%;
+    overflow: hidden;
+    border-bottom: #000000;
+    border-bottom-width: 2px;
+}
+.chibi{
+    height: 240px;
+    width: 100%;
+    transition: all .9s !important;
+}
+.chibi:hover{
+    transform: scale(1.4);
+}
+.li-home a {
+    color: #cbc19d;
+}
+
+.chibi-div{
+    width: 100%;
+    overflow: hidden;
+}
+
+
+/*discount*/
+
+
+.discount{
+    background-image: url('images/happy-family.jpg');
+    background-repeat: no-repeat;
+    background-attachment: initial;
+    background-size: cover;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.disHeading{
+    padding: 35px;
+    font-family: Aboreto, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+strong.disPercent {
+    font-size: 60px;
+    font-weight: 700;
+    text-transform: capitalize;
+    width: 100%;
+    display: inline-block;
+    position: relative;
+    line-height: normal;
+    border: 5px dashed;
+    padding: 20px;
+    margin: 20px;
+}
+
+.dis_text{
+    margin: 0 0;
+    color: #e0ba54;
+    filter: brightness(90%);
+}
+
+.disAll{
+    text-align: center;
+    padding-bottom: 70px;
+}
+
+
+/*teamMembers*/
+
+
+.teamMembers{
+    padding: 0 60px;
+}
+.teamMembers img{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    margin-bottom: 16px;
+}
+div.staff_head {
+    padding-bottom: 35px;
+    font-family: Aboreto, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #c6930f;
+
+}
+
+
+/*footer*/
+
+
+body {
+    background: #3b2c05;
+}
+
+div.col2{
+    height: 100px;
+}
+
+footer {
+    background: #3b2c05;
+    width: 100%;
+    margin-top: 50px;
+    box-shadow: #00000028 0 0 20px 5px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 60px;
+
+}
+
+img.f-img{
+    height: 70px;
+    width: 90px;
+    object-fit: cover;
+}
+
+.main {
+    width: 100%;
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+.heading {
+    margin-bottom: 15px;
+}
+.col1 {
+    flex: 1;
+    min-width: 200px;
+}
+.col2 {
+    flex: 2;
+    min-width: 300px;
+}
+.col3 {
+    flex: 1;
+    min-width: 200px;
+}
+
+.col1 a {
+    display: inline-block;
+    padding: 7px 0;
+    font-size: 14px;
+    color: #c6930f;
+}
+.col1 a:hover {
+    color: #e0dcc5;
+}
+
+.col2 .languages {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    font-size: 14px;
+}
+.col2 a {
+    display: inline-block;
+    padding: 3px 5px;
+    border-radius: 3px;
+}
+.col2 a:hover {
+    background: #e0dcc5;
+}
+
+.social {
+    display: flex;
+    gap: 20px;
+}
+.col3 ion-icon {
+    font-size: 30px;
+}
+.social a:hover ion-icon {
+    color: #e0dcc5;
+}
+
+.terms {
+    display: flex;
+    gap: 20px;
+    font-size: 12px;
+    margin-top: 30px;
+}
+.terms a {
+    color: #e0dcc5;
+}
+
+h3.heading{
+    color: #e0dcc5;
+}
+
+.address{
+    color: #e0dcc5;
+}
+
+.map{
+    color: #e0dcc5;
+}
+.contact{
+    color: #e0dcc5;
+}
+.about{
+    color: #e0dcc5;
+}
+
+.col1, .address, .li-home, .map, .contact, .about{
+    color: #e0dcc5;
+}
+
+.terms{
+    text-align: center;
+    padding-left: 600px;
+    color: #e0dcc5;
+}
+
+.demo-intro{
+    color: #e0dcc5;
+}
+
+.row{
+    display: inline-block;
+}
+.column{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.address{
+    list-style: none;
+}
+
+.li-home{
+    list-style: none;
+}
+.about{
+    list-style: none;
+}
+.map{
+    list-style: none;
+}
+.contact{
+    list-style: none;
+}
+
